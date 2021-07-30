@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio3/static/css/main.fe8aeb49.chunk.css",
-    "main.js": "/portfolio3/static/js/main.d7021386.chunk.js",
-    "main.js.map": "/portfolio3/static/js/main.d7021386.chunk.js.map",
-    "runtime-main.js": "/portfolio3/static/js/runtime-main.68df5bab.js",
-    "runtime-main.js.map": "/portfolio3/static/js/runtime-main.68df5bab.js.map",
-    "static/js/2.bf6801e0.chunk.js": "/portfolio3/static/js/2.bf6801e0.chunk.js",
-    "static/js/2.bf6801e0.chunk.js.map": "/portfolio3/static/js/2.bf6801e0.chunk.js.map",
-    "static/js/3.e4ae2728.chunk.js": "/portfolio3/static/js/3.e4ae2728.chunk.js",
-    "static/js/3.e4ae2728.chunk.js.map": "/portfolio3/static/js/3.e4ae2728.chunk.js.map",
+    "main.css": "/portfolio3/static/css/main.dbccb564.chunk.css",
+    "main.js": "/portfolio3/static/js/main.33065bcd.chunk.js",
+    "main.js.map": "/portfolio3/static/js/main.33065bcd.chunk.js.map",
+    "runtime-main.js": "/portfolio3/static/js/runtime-main.ac7b4842.js",
+    "runtime-main.js.map": "/portfolio3/static/js/runtime-main.ac7b4842.js.map",
+    "static/js/2.a9ae68fe.chunk.js": "/portfolio3/static/js/2.a9ae68fe.chunk.js",
+    "static/js/2.a9ae68fe.chunk.js.map": "/portfolio3/static/js/2.a9ae68fe.chunk.js.map",
+    "static/js/3.1ab06f8d.chunk.js": "/portfolio3/static/js/3.1ab06f8d.chunk.js",
+    "static/js/3.1ab06f8d.chunk.js.map": "/portfolio3/static/js/3.1ab06f8d.chunk.js.map",
     "index.html": "/portfolio3/index.html",
-    "static/css/main.fe8aeb49.chunk.css.map": "/portfolio3/static/css/main.fe8aeb49.chunk.css.map",
-    "static/js/2.bf6801e0.chunk.js.LICENSE.txt": "/portfolio3/static/js/2.bf6801e0.chunk.js.LICENSE.txt",
+    "static/css/main.dbccb564.chunk.css.map": "/portfolio3/static/css/main.dbccb564.chunk.css.map",
+    "static/js/2.a9ae68fe.chunk.js.LICENSE.txt": "/portfolio3/static/js/2.a9ae68fe.chunk.js.LICENSE.txt",
     "static/media/me.59fe444a.jpg": "/portfolio3/static/media/me.59fe444a.jpg",
     "static/media/nc_about.9135a6d2.png": "/portfolio3/static/media/nc_about.9135a6d2.png",
     "static/media/nc_contact.c075d826.png": "/portfolio3/static/media/nc_contact.c075d826.png",
@@ -36,9 +36,9 @@
     "static/media/twd_splash.b97a9fb1.png": "/portfolio3/static/media/twd_splash.b97a9fb1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.68df5bab.js",
-    "static/js/2.bf6801e0.chunk.js",
-    "static/css/main.fe8aeb49.chunk.css",
-    "static/js/main.d7021386.chunk.js"
+    "static/js/runtime-main.ac7b4842.js",
+    "static/js/2.a9ae68fe.chunk.js",
+    "static/css/main.dbccb564.chunk.css",
+    "static/js/main.33065bcd.chunk.js"
   ]
 }
